@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/github.io/Redux_Todo/static/css/main.8777be7f.chunk.css",
+    "main.js": "/github.io/Redux_Todo/static/js/main.ed9fdf27.chunk.js",
+    "main.js.map": "/github.io/Redux_Todo/static/js/main.ed9fdf27.chunk.js.map",
+    "runtime-main.js": "/github.io/Redux_Todo/static/js/runtime-main.914f2eae.js",
+    "runtime-main.js.map": "/github.io/Redux_Todo/static/js/runtime-main.914f2eae.js.map",
+    "static/js/2.d69fea6d.chunk.js": "/github.io/Redux_Todo/static/js/2.d69fea6d.chunk.js",
+    "static/js/2.d69fea6d.chunk.js.map": "/github.io/Redux_Todo/static/js/2.d69fea6d.chunk.js.map",
+    "static/js/3.3ba7e11e.chunk.js": "/github.io/Redux_Todo/static/js/3.3ba7e11e.chunk.js",
+    "static/js/3.3ba7e11e.chunk.js.map": "/github.io/Redux_Todo/static/js/3.3ba7e11e.chunk.js.map",
+    "static/js/4.a2212acb.chunk.js": "/github.io/Redux_Todo/static/js/4.a2212acb.chunk.js",
+    "static/js/4.a2212acb.chunk.js.map": "/github.io/Redux_Todo/static/js/4.a2212acb.chunk.js.map",
+    "index.html": "/github.io/Redux_Todo/index.html",
+    "static/css/main.8777be7f.chunk.css.map": "/github.io/Redux_Todo/static/css/main.8777be7f.chunk.css.map",
+    "static/js/2.d69fea6d.chunk.js.LICENSE.txt": "/github.io/Redux_Todo/static/js/2.d69fea6d.chunk.js.LICENSE.txt",
+    "static/js/3.3ba7e11e.chunk.js.LICENSE.txt": "/github.io/Redux_Todo/static/js/3.3ba7e11e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.914f2eae.js",
+    "static/js/2.d69fea6d.chunk.js",
+    "static/css/main.8777be7f.chunk.css",
+    "static/js/main.ed9fdf27.chunk.js"
+  ]
+}
